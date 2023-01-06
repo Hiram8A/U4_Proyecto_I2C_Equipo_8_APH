@@ -19,4 +19,10 @@
 [Video Tutorial Driver](https://www.youtube.com/watch?v=WVFfcZbR6t0)
 
 
-[Manual Driver Español](https://itchihuahuaedumx-my.sharepoint.com/:b:/g/personal/l19060760_chihuahua_tecnm_mx/ETpafa3rNctHg_kS_iGrlGUBtOdTsx_lblr10sSaeCxScA?e=2hN1Gw)
+[Manual del Driver en Español](https://itchihuahuaedumx-my.sharepoint.com/:b:/g/personal/l19060760_chihuahua_tecnm_mx/ETpafa3rNctHg_kS_iGrlGUBtOdTsx_lblr10sSaeCxScA?e=2hN1Gw)
+
+[English Driver Manual](https://itchihuahuaedumx-my.sharepoint.com/:b:/g/personal/l19060760_chihuahua_tecnm_mx/EXlLZi07QA5DsQuUImgvlMUBGgLOaRLCzKDtZXuzJWIbPQ?e=9pbmVE)
+
+[Liga Aplicación OneDrive](https://itchihuahuaedumx-my.sharepoint.com/:u:/g/personal/l19060760_chihuahua_tecnm_mx/ESOCDGR6FstNkYAgr7fzTVgBlWfYdatYWWeh3i9Zl3y2Bw?e=3w3MiG)
+
+[Repositorio Driver I2C](https://github.com/Kairoz90/Modulo_I2C)
